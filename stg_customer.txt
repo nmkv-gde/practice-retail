@@ -1,0 +1,4 @@
+create table stg_customer_new
+(
+)
+;
